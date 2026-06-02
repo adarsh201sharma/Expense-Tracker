@@ -2,7 +2,7 @@
 
 A full-stack personal finance application that helps users track expenses, visualise spending patterns, and gain insights through interactive dashboards.
 
-**Live Demo:** [https://expense-tracker-adarsh.vercel.app](https://expense-tracker-adarsh.vercel.app) *(replace with your actual URL after deployment)*
+**Live Demo: https://expense-tracker-smoky-theta.vercel.app/
 
 ![Dashboard Preview](./public/screenshot.png)
 
